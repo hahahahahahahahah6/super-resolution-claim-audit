@@ -1,0 +1,1 @@
+supports image super resolution
